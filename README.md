@@ -1,101 +1,151 @@
-# 👋 Hi, I'm Shujaullah Zahid
-
-### 🤖 AI Engineer | Machine Learning Enthusiast | Python & C++ Developer
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&center=true&vCenter=true&width=820&height=44&lines=Artificial+Intelligence+Student+from+Pakistan;Building+Machine+Learning+and+Computer+Vision+Projects;Exploring+Deep+Learning%2C+SAR+and+Generative+AI" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Shujaullah%20Zahid&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
+
+<h2 align="center">
+  🤖 AI Engineer &nbsp;|&nbsp; Machine Learning Enthusiast &nbsp;|&nbsp; Python Developer
+</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-## 🚀 About Me
-
-I'm **Shujaullah Zahid**, an Artificial Intelligence graduate and developer passionate about building practical AI solutions and solving real-world problems through technology.
-
-* 🎓 Graduate in **Artificial Intelligence**
-* 🔭 Currently working on **AI and Machine Learning projects**
-* 🌱 Exploring **Deep Learning, Computer Vision, LLMs, and Generative AI**
-* 🌾 Experienced in **Rice Crop Health Monitoring using Sentinel-1 SAR**
-* 🗣️ Worked on **Pashto Speech-to-Text using OpenAI Whisper**
-* 👯 Open to collaborating on **AI, Machine Learning, Computer Vision, and NLP projects**
-* 💬 Ask me about **Python, C++, Machine Learning, OpenCV, YOLO, and AI**
-* ⚡ Passionate about building intelligent systems that solve real-world problems
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" />
-</p>
-
-## 🌟 Featured Projects
-
-### 🌾 Rice Crop Health Monitoring System
-
-Monitoring rice crop health using **Sentinel-1 SAR imagery**, RVI, and Machine Learning.
-
-### 🕳️ Pothole Detection using YOLO
-
-Computer Vision system for detecting and classifying potholes using YOLO.
-
-### 🩺 AI Doctor App
-
-A desktop-based AI application designed to integrate Large Language Models into a medical-assistance interface.
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Systems+with+AI;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Python+Developer+and+AI+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=Shujaullah-Dev&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
 </p>
 
-## 📈 Contribution Graph
+---
+
+# 🚀 About Me
+
+🎓 **Artificial Intelligence Graduate** from Pakistan
+
+🤖 Passionate about building real-world solutions using **Artificial Intelligence and Machine Learning**
+
+🌾 Working on **Rice Crop Health Monitoring using Sentinel-1 SAR**
+
+🗣️ Experienced with **Speech-to-Text systems using OpenAI Whisper**
+
+👁️ Interested in **Computer Vision, Deep Learning, NLP, LLMs, and Generative AI**
+
+💻 Building projects using **Python, C++, Machine Learning, and Web Technologies**
+
+---
+
+# 💻 Programming & Web Development
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,django" />
+
 </p>
 
-## 🔗 Connect With Me
+## 💻 Languages & Web Technologies
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍%20PROGRAMMING-1f6feb?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌐%20FRONTEND-238636?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚛️%20FRAMEWORKS%20%26%20BACKEND-8957e5?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flask,django" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🗄️%20DATABASES-0969da?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+<br/>
+
+<p align="center">
+  <i>✨ Turning ideas into interactive and intelligent applications.</i>
+</p>
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
+
+</p>
+
+### AI Skills
+
+* 🧠 Machine Learning
+* 🔥 Deep Learning
+* 👁️ Computer Vision
+* 🗣️ Natural Language Processing
+* 🤖 Large Language Models
+* 🎯 Object Detection
+* 🛰️ Remote Sensing & SAR Analysis
+
+---
+
+# 🛠️ Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" />
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shujaullah-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+  <img src="https://streak-stats.demolab.com?user=Shujaullah-Dev&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shujaullah-Dev&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐ Building intelligent systems, one project at a time.</i>
+
+### ⭐ *"Building intelligent systems and turning ideas into reality through AI."*
+
 </p>
