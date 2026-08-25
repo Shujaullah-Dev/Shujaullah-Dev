@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shuja Zahid
+# 👋 Hi, I'm Shujaullah Zahid
 
 ### 🤖 AI Engineer | Machine Learning Enthusiast | Python & C++ Developer
 
@@ -12,15 +12,16 @@
 
 ## 🚀 About Me
 
-I'm **Shuja Zahid**, a final-year Artificial Intelligence student and developer passionate about building practical AI solutions.
+I'm **Shujaullah Zahid**, an Artificial Intelligence graduate and developer passionate about building practical AI solutions and solving real-world problems through technology.
 
+* 🎓 Graduate in **Artificial Intelligence**
 * 🔭 Currently working on **AI and Machine Learning projects**
-* 🌱 Learning **Deep Learning, Computer Vision, LLMs, and Generative AI**
-* 🌾 Working on **Rice Crop Health Monitoring using Sentinel-1 SAR**
-* 🗣️ Experience with **Pashto Speech-to-Text using Whisper**
-* 👯 Open to collaborating on **AI, ML, Computer Vision, and NLP projects**
+* 🌱 Exploring **Deep Learning, Computer Vision, LLMs, and Generative AI**
+* 🌾 Experienced in **Rice Crop Health Monitoring using Sentinel-1 SAR**
+* 🗣️ Worked on **Pashto Speech-to-Text using OpenAI Whisper**
+* 👯 Open to collaborating on **AI, Machine Learning, Computer Vision, and NLP projects**
 * 💬 Ask me about **Python, C++, Machine Learning, OpenCV, YOLO, and AI**
-* ⚡ Interested in solving real-world problems using Artificial Intelligence
+* ⚡ Passionate about building intelligent systems that solve real-world problems
 
 ## 🛠️ Tech Stack
 
@@ -56,10 +57,6 @@ I'm **Shuja Zahid**, a final-year Artificial Intelligence student and developer 
 ### 🌾 Rice Crop Health Monitoring System
 
 Monitoring rice crop health using **Sentinel-1 SAR imagery**, RVI, and Machine Learning.
-
-### 🗣️ Pashto Speech-to-Text
-
-Speech recognition system using **OpenAI Whisper** for the Pashto language.
 
 ### 🕳️ Pothole Detection using YOLO
 
