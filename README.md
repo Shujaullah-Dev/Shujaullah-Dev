@@ -24,7 +24,7 @@
 
 🤖 Passionate about building real-world solutions using **Artificial Intelligence and Machine Learning**
 
-🌾 Working on **Rice Crop Health Monitoring using Sentinel-1 SAR**
+🌾 Working on **Rice Crop Health Monitoring using Sentinel-1 SAR** and **AI Research Assistant (RAG)**
 
 🗣️ Experienced with **Speech-to-Text systems using OpenAI Whisper**
 
@@ -131,9 +131,9 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shujaullah-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-  <img src="https://streak-stats.demolab.com?user=Shujaullah-Dev&theme=tokyonight&hide_border=true" height="165" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Shujaullah-Dev&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shujaullah-Dev&theme=tokyonight&hide_border=true&background=00000000&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakLabel=2ea043" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Shujaullah-Dev&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
 # 📈 Contribution Graph
