@@ -24,7 +24,7 @@
 <br/>
 
 <!-- ABOUT ME -->
-#  About Me
+# 🌿 About Me
 
 👋 **Hi there! I'm Shujaullah Zahid**, an **Artificial Intelligence Graduate** from Pakistan with a deep passion for designing intelligent software solutions to solve real-world problems.
 
@@ -51,7 +51,7 @@
 
 ### 💻 Web Development & Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,flask,django,nodejs,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,flask,django,fastapi,nodejs,mysql,sqlite" />
 </p>
 
 ### ⚙️ Developer Tools & Environment
@@ -61,6 +61,15 @@
 
 ---
 
+# 🚀 Key Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🌾 Rice Crop Health Monitoring** | Remote sensing platform using Sentinel-1 SAR imagery for high-accuracy agricultural monitoring. | `Python` `Sentinel-1 SAR` `PyTorch` |
+| **🤖 AI Research Assistant (RAG)** | Interactive document and literature assistant using Retrieval-Augmented Generation. | `FastAPI` `LangChain` `LLMs` `Python` |
+| **🎙️ Whisper STT Engine** | Speech-to-Text transcription tool tuned for fast processing and audio indexing. | `OpenAI Whisper` `Python` `FFmpeg` |
+
+---
 
 # 📊 GitHub Statistics
 
@@ -75,7 +84,6 @@
 
 ---
 
-
 # 📬 Let's Connect!
 
 <p align="center">
@@ -83,7 +91,4 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail" /></a>
-  <a href="https://github.com/Shujaullah-Dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" /></a>
-</p>
+  <a href="
