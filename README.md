@@ -11,7 +11,10 @@
 <!-- VISITOR COUNTER & BADGES -->
 <p align="center">
   <a href="https://github.com/Shujaullah-Dev">
-    <img src="https://komarev.com/ghpvc/?username=Shujaullah-Dev&label=PROFILE+VIEWS&color=007acc&style=for-the-badge" alt="Profile Views" />
+    <img
+    src="https://komarev.com/ghpvc/?username=Shujaullah-Dev&color=blue&style=flat-square"
+    alt="Profile Views"
+  />
   </a>
   <a href="https://linkedin.com/in/shujazahid01/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
