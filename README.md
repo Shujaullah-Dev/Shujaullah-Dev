@@ -61,16 +61,6 @@
 
 ---
 
-# 🚀 Key Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🌾 Rice Crop Health Monitoring** | Remote sensing platform using Sentinel-1 SAR imagery for high-accuracy agricultural monitoring. | `Python` `Sentinel-1 SAR` `PyTorch` |
-| **🤖 AI Research Assistant (RAG)** | Interactive document and literature assistant using Retrieval-Augmented Generation. | `FastAPI` `LangChain` `LLMs` `Python` |
-| **🎙️ Whisper STT Engine** | Speech-to-Text transcription tool tuned for fast processing and audio indexing. | `OpenAI Whisper` `Python` `FFmpeg` |
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
