@@ -14,8 +14,13 @@
     <img
     src="https://komarev.com/ghpvc/?username=Shujaullah-Dev&color=blue&style=flat-square"
     alt="Profile Views"
-  />
-  </a>
+  />   
+
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fshujaullah-dev&style=plastic)](https://rankistan.dev/#shujaullah-dev)
+
+<!--Let's Connect! -->
+# Let's Connect!
+
   <a href="https://linkedin.com/in/shujazahid01/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -24,25 +29,21 @@
   </a>
 </p>
 
-<br/>
-
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fshujaullah-dev&style=plastic)](https://rankistan.dev/#shujaullah-dev)
-
 <!-- ABOUT ME -->
-# 🌿 About Me
+#  About Me
 
-👋 **Hi there! I'm Shujaullah Zahid**, an **Artificial Intelligence Graduate** from Pakistan with a deep passion for designing intelligent software solutions to solve real-world problems.
+ **Hi there! I'm Shujaullah Zahid**, an **Artificial Intelligence Graduate** from Pakistan with a deep passion for designing intelligent software solutions to solve real-world problems.
 
 - 📡 **Current Focus:** Monitoring Rice Crop Health using **Sentinel-1 SAR Data** & developing **RAG-based AI Research Assistants**.
-- 🎙️ **Specialized Skills:** Building automated Speech-to-Text pipelines with **OpenAI Whisper**.
-- 💡 **Interests:** Computer Vision, Deep Learning, Natural Language Processing, and LLM applications.
-- 🎯 **Goal:** Bridging cutting-edge AI research with accessible, high-performance web applications.
+-  **Specialized Skills:** Building automated Speech-to-Text pipelines with **OpenAI Whisper**.
+-  **Interests:** Computer Vision, Deep Learning, Natural Language Processing, and LLM applications.
+-  **Goal:** Bridging cutting-edge AI research with accessible, high-performance web applications.
 
 ---
 
-# 🛠️ Tech Stack & Skills
+#  Tech Stack & Skills
 
-### 🧠 Artificial Intelligence & Data Science
+###  Artificial Intelligence & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -54,12 +55,12 @@
   <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
 </p>
 
-### 💻 Web Development & Programming
+###  Web Development & Programming
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,flask,django,fastapi,nodejs,mysql,sqlite" />
 </p>
 
-### ⚙️ Developer Tools & Environment
+###  Developer Tools & Environment
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" />
 </p>
@@ -79,11 +80,7 @@
 
 ---
 
-# 📬 Let's Connect!
 
-<p align="center">
-  <i>"Building intelligent systems to transform complex data into impactful solutions."</i>
-</p>
 
 <p align="center">
   <a href="
