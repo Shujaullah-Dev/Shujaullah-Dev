@@ -10,9 +10,9 @@
 
 <!-- CONNECT & PROFILE BADGES -->
 
-<p align = "center">
+<p align = "center"">
   <a href="https://github.com/Shujaullah-Dev">
-    <img src="https://komarev.com/ghpvc/?username=Shujaullah-Dev&color=0284c7&style=for-the-badge&label=PROFILE_VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Shujaullah-Dev&color=0284c7&style=plastic&label=PROFILE_VIEWS" alt="Profile Views" />
   </a>
 </p>
 
